@@ -14,6 +14,9 @@
         <module>stock-api</module>
         <module>stock-service</module>
         <module>stock-repository</module>
+        <module>cloud-config</module>
+        <module>cloud-gateway</module>
+        <module>cloud-eureka</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
